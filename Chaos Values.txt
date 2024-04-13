@@ -1,0 +1,13 @@
+Bob 0
+Ashley 0
+James 0
+Timothy 0
+John 0
+Sara 0
+Jessica 0
+Watson 0
+
+
+
+Threshold_Interval 10
+Chaos_Modifier 5
